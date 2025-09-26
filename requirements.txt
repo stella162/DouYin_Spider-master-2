@@ -1,0 +1,16 @@
+asyncio
+aiofiles
+loguru
+python-dotenv
+retry
+openpyxl
+urllib3
+PyExecJS
+requests
+argparse
+websockets
+beautifulsoup4
+websocket-client
+protobuf>=3.20.0
+pandas
+openpyxl
